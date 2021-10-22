@@ -6,7 +6,7 @@ import re
 from werkzeug.security import generate_password_hash, check_password_hash
  
 app = Flask(__name__)
-app.secret_key = 'cairocoders-ednalan'
+app.secret_key = 'inarjun-arjun'
  
 DB_HOST = "localhost"
 DB_NAME = "sampledb"
